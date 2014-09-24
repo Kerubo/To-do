@@ -1,0 +1,7 @@
+
+<?php
+/*we rae going to add a new task table*/
+class Task extends Eloquent
+{
+public $table = 'other_tasks';
+}
